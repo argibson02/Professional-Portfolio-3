@@ -1,20 +1,20 @@
 # Professional Portfolio III
 ## Description
 
-This is my third take on a professional profile. In this one, 
+This is my third take on a professional profile. In this one, I try out some Bootstraps bells and whistles!
 
 **[Click this link to see Professional Portfolio III!](https://argibson02.github.io/Professional-Portfolio-3/)**
  <br />
 
 **Demo of Professional Portfolio III in action!**
 
-![Demo of Professional Portfolio III in action](./images/profile-demo.gif)
+![Demo of Professional Portfolio III in action](./images/portfolio-demo.gif)
 
 
 Features
-* Utilizes Bootstrap's CSS Framework
-* Contact links and downloadable resume
-
+* Utilizes Bootstrap's CSS Framework.
+* Carousel that display my major works.
+* Contact links and downloadable resume.
 
 ## Prerequisites
 Any modern internet browser will do!
