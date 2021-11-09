@@ -67,6 +67,7 @@ body {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+/* Min widths */
 @media (min-width: 40em) {
   .carousel-caption p {
     margin-bottom: 1.25rem;
@@ -85,9 +86,15 @@ body {
   }
 }
 
+
+/* Max widths */
 @media screen and (max-width: 976px) {
   .featurette-heading {
     margin-top: 1rem;
+  }
+
+  .lead {
+    padding-left: 5px;
   }
 }
 
