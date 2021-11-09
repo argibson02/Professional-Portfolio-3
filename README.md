@@ -6,7 +6,7 @@ This is my third take on a professional profile. In this one, I try out some Boo
 **[Click this link to see Professional Portfolio III!](https://argibson02.github.io/Professional-Portfolio-3/)**
  <br />
 
-**Demo of Professional Portfolio III in action!**
+**Demo of the webpage in action!**
 
 ![Demo of Professional Portfolio III in action](./images/portfolio-demo.gif)
 
@@ -51,7 +51,7 @@ Any modern internet browser will do!
 
 **Alexander Gibson** 
 
-- [Link to Alex's Portfolio Site](https://argibson02.github.io/Professional-Portfolio-2/)
+- [Link to Alex's Portfolio Site](https://argibson02.github.io/Professional-Portfolio-3/)
 - [Link to Alex's Github](https://github.com/argibson02)
 - [Link to Alex's LinkedIn](www.linkedin.com/in/alexander-gibson-1b0bb6105)
 
