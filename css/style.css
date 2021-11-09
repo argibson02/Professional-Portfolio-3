@@ -12,12 +12,20 @@ body {
 
 }
 
-
 /* CAROUSEL
 -------------------------------------------------- */
 .carousel {
   margin-bottom: 4rem;
 }
+
+.carousel-pill {
+  border-radius: 22px;
+  background-color: var(--bs-gray-dark);
+  opacity: .9;
+  display: inline-flex;
+  padding: 8px;
+}
+
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
@@ -43,6 +51,10 @@ body {
   margin: 2rem;
 }
 
+#worksSection {
+  border: 2px var(--bs-gray-dark) solid;
+}
+
 /* STANDOUTS CONTENT
 -------------------------------------------------- */
 .standouts .col-lg-4 {
@@ -64,10 +76,11 @@ body {
 }
 
 .featurette-heading {
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1;
   letter-spacing: -.05rem;
   margin: .5rem;
+  font-size: 20px;
 }
 
 /* CONTACT
@@ -181,7 +194,7 @@ body {
   }
 
   .featurette-heading {
-    font-size: 50px;
+    font-size: 36px;
   }
 }
 
